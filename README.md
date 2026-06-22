@@ -18,3 +18,7 @@ Este compilador foi projetado para rodar em ambientes Linux (Ubuntu/Debian) ou M
 ```bash
 sudo apt-get update
 sudo apt-get install -y flex bison llvm clang nasm llvm-dev
+```
+## 3. Evidences
+
+<img width="731" height="613" alt="image" src="https://github.com/user-attachments/assets/1f757661-7600-486e-bac2-37d5b6e9c287" />
